@@ -15,7 +15,7 @@ Part I: First Steps with JavaScript
 [x] HOUR 1: Introducing JavaScript
 [x] HOUR 2: Writing Simple Scripts
 [x] HOUR 3: Using Functions
-[ ] HOUR 4: DOM Objects and Built-in Objects
+[x] HOUR 4: DOM Objects and Built-in Objects
 
 Part II: Cooking with Code
 [ ] HOUR 5: Numbers and Strings
