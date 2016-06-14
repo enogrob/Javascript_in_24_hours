@@ -18,7 +18,7 @@ Part I: First Steps with JavaScript
 [x] HOUR 4: DOM Objects and Built-in Objects
 
 Part II: Cooking with Code
-[ ] HOUR 5: Numbers and Strings
+[x] HOUR 5: Numbers and Strings
 [ ] HOUR 6: Arrays
 [ ] HOUR 7: Program Control
 

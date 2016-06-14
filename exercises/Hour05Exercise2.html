@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hour05 Exercise 2</title>
+</head>
+<body>
+<script>
+    String.prototype.capitalize = function(){
+        return this.replace( /(^|\s)([a-z])/g , function(m,p1,p2){ return p1+p2.toUpperCase(); } );
+    };
+
+    var name = "roberto nogueira";
+    alert(name.capitalize());
+</script>
+</body>
+</html>
