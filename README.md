@@ -19,7 +19,7 @@ Part I: First Steps with JavaScript
 
 Part II: Cooking with Code
 [x] HOUR 5: Numbers and Strings
-[ ] HOUR 6: Arrays
+[x] HOUR 6: Arrays
 [ ] HOUR 7: Program Control
 
 Part III: Objects
