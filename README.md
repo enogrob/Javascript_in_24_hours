@@ -40,7 +40,7 @@ Part V: Using JavaScript Libraries
 Part VI: Advanced Topics
 [ ] HOUR 18: Reading and Writing Cookies
 [ ] HOUR 19: Coming Soon to JavaScript
-[ ] HOUR 20: Using Frameworks
+[~] HOUR 20: Using Frameworks
 [ ] HOUR 21: JavaScript Beyond the Web Page
 
 Part VII: Learning the Trade
